@@ -1,4 +1,4 @@
 # udemy-git-tutorial
 Here is my GitHub repository for learning purposes.
 
-README.md file was just edited manually. This file was modified locally
+This line was modified manually during conflicts resolution
